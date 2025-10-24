@@ -65,6 +65,3 @@ Include:
 - These are essential for data analysis and reporting in SQL.
 
 ---
-
-## ✅ Author
-**Deekshitha K V**
